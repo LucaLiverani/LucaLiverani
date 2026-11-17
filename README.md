@@ -2,8 +2,8 @@
 
 I work with data: I model them, I build the pipelines that move them, I visualize them, and I'm also playing with the AI layer on top.
 
-I decided to make most of my repositories private — LLMs and crawlers scrape the public web every minute, and I'd rather not have my code quietly pulled into someone's training set.
-It's not really about secrecy — I'd just rather decide for myself what I put out there.
+I decided to make most of my repositories private, LLMs and crawlers scrape the public web every minute, and I'd rather not have my code quietly pulled into someone's training set.
+It's not really about secrecy, I'd just rather decide for myself what I put out there.
 
 One project is public, though, and it's probably the most personal thing I've built.
 
